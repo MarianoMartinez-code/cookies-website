@@ -1,10 +1,10 @@
-import './App.css'
+import CookiesMenu from './components/cookies-menu/cookies-menu';
 
 function App() {
 
   return (
     <>
-      
+      <CookiesMenu />
     </>
   )
 }
