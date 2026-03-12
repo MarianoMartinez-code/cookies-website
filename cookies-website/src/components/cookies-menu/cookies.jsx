@@ -14,7 +14,7 @@ export default function Cookies() {
 
     return (
         <div>
-            <h1>Cookie Menu</h1>
+            <h1>Menu de Cookies</h1>
             {ListCookies}
         </div>
     )
