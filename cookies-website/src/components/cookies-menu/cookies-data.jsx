@@ -6,6 +6,7 @@ export const cookiesData = [
         weight: "120gr",
         price: 3,
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsqETptgZVAjMRbRUh52oBR9e85A8zB8pkgg&s",
+        isAvailable: true,
     },
     {
         id: 2,
@@ -14,6 +15,7 @@ export const cookiesData = [
         weight: "120gr",
         price: 3,
         image: "https://cookiegood.com/cdn/shop/products/GF_Red_Velvet.jpg?v=1454204420",
+        isAvailable: true,
     },
     {
         id: 3,
@@ -22,6 +24,7 @@ export const cookiesData = [
         weight: "120gr",
         price: 3,
         image: "https://www.shutterstock.com/image-photo/brownie-rounded-cookie-top-view-600nw-2620518985.jpg",
+        isAvailable: true,
     },
     {
         id: 4,
@@ -30,6 +33,7 @@ export const cookiesData = [
         weight: "120gr",
         price: 3,
         image: "https://png.pngtree.com/png-vector/20240926/ourlarge/pngtree-delicious-peanut-butter-creamy-spread-in-a-glass-png-image_13911603.png",
+        isAvailable: true,
     },
     {
         id: 5,
@@ -38,6 +42,7 @@ export const cookiesData = [
         weight: "120gr",
         price: 3,
         image: "https://mamascookies.ca/cdn/shop/files/smorescookie_503x503.png?v=1702353000",
+        isAvailable: true,
     },
     {
         id: 6,
@@ -46,6 +51,7 @@ export const cookiesData = [
         weight: "120gr",
         price: 3,       
         image: "https://212global.com/wp-content/uploads/2025/06/611ac90f5066680b8fa00530_thumbnail.png",
+        isAvailable: true,
     },
     {
         id: 7,
@@ -54,6 +60,7 @@ export const cookiesData = [
         weight: "120gr",
         price: 3,
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkQ0Pf_Hv0XnYPl8pG9AZHc6Khu3fcyKo2g&s",
+        isAvailable: false,
     },
     {
         id: 8,
@@ -62,6 +69,7 @@ export const cookiesData = [
         weight: "120gr",
         price: 3,       
         image: "https://png.pngtree.com/png-clipart/20240103/original/pngtree-churros-illustration-png-image_14008389.png",
+        isAvailable: true,
     },
     {
         id: 9,
@@ -70,6 +78,7 @@ export const cookiesData = [
         weight: "120gr",
         price: 3,
         image: "https://i.pinimg.com/736x/e8/1b/75/e81b75ae64f4718be13b5f7664683c8e.jpg",
+        isAvailable: true,
     },
     {
         id: 10,
@@ -78,5 +87,6 @@ export const cookiesData = [
         weight: "120gr",
         price: 3,
         image: "https://png.pngtree.com/png-clipart/20241129/original/pngtree-funfetti-cake-png-image_17407874.png",
+        isAvailable: false,
     },
 ];
