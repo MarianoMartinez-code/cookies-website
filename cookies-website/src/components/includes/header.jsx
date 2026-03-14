@@ -1,10 +1,10 @@
 export default function Header() {
     return (
-        <header>
-            <h1>New York Cookies Venezuela</h1>
-            <nav>
+        <header className="main-header">
+            <h1>New York Cookies<br/>Venezuela</h1>
+            <nav className="main-nav">
                 <ul>
-                    <li><a href="#">Menu</a></li>
+                    <li><a href="#">Menú</a></li>
                     <li><a href="#">Historia</a></li>
                     <li><a href="#">Contacto</a></li>
                 </ul>
